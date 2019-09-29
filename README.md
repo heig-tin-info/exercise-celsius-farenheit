@@ -1,6 +1,6 @@
-# Celsius en Farenheit
+# Celsius en Fahrenheit
 
-Le programme `c2f` doit pouvoir convertir des degrés Celsius en degrés Farenheit:
+Le programme `c2f` doit pouvoir convertir des degrés Celsius en degrés Fahrenheit:
 
 ```shell
 $ ./c2f 37.2
